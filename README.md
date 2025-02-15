@@ -10,7 +10,7 @@ This is a gmail-replica webapp demonstrating single page application, created us
 
 ### Demo Video
 ---
-<video src=""></video>
+<video src="https://github.com/user-attachments/assets/617a986c-f836-4286-8ef8-32bc4ac6cc9a"></video>
 ---
 
 ### Key Features
